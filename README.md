@@ -2,9 +2,9 @@
 
 🌱 I’m currently trying to learn C++ in my free time and know a bit of python.
 
-📫 How to reach me: My personal email is - advik.renton@gmail.com
+📫 How to reach me: My work email - adviks.work@outlook.com
 
-📖 I am a High School Sophomore
+📖 I am a College Freshman
 
 <!--
 **advik-student-dev/advik-student-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
